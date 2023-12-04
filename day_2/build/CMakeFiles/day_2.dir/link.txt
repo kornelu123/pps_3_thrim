@@ -1,0 +1,1 @@
+/usr/bin/cc -fsanitize=address CMakeFiles/day_2.dir/day_2.c.o -o day_2  -lm 

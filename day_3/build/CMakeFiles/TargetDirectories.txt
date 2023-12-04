@@ -1,0 +1,3 @@
+/home/j00r/pps_3_thrim/day_3/build/CMakeFiles/day_3.dir
+/home/j00r/pps_3_thrim/day_3/build/CMakeFiles/edit_cache.dir
+/home/j00r/pps_3_thrim/day_3/build/CMakeFiles/rebuild_cache.dir
